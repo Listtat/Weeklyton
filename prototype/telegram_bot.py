@@ -22,7 +22,7 @@ from pyzbar.pyzbar import decode
 from PIL import Image
 import qrcode
 
-token = "5724624104:AAHGanifFCJKqCiihaKC6wUGsB2Yd1V39a0"
+token = "5724624104:AAFAYi60ituybTKaarmZ9tkypVoMnK2Mt6M"
 bot = telebot.TeleBot(token)
 
 event_id_for_change = 0
